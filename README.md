@@ -81,8 +81,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/BlueNIght0696YT/BlueNIght0696YT/output/snake.svg" alt="Snake animation" />
-
-###
